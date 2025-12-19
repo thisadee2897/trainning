@@ -1,3 +1,78 @@
-/.history
+# Binaries and Large Files
+*.whl
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Python Virtual Environment
 /.venv
+.venv/
+venv/
+env/
+.env/
+
+# Python Cache
 /__pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# History
+/.history
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model Files (Large)
+*.hef
+*.onnx
+*.pt
+*.pth
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Data Files (Large)
+*.csv
+*.json
+data/
+datasets/
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Documentation Build
+docs/_build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Backup Files
+*.backup
+*.bak

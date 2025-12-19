@@ -179,7 +179,7 @@ except:
 
 class Config:
     # Discord Webhook
-    DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1447260795359596598/z0AycOqXHn3Douayq5BRKbZj_p3GdvrWncBbJ6hZAzFRzzwK9LpyVkmH9wNFvO0dP2RU"
+    DISCORD_WEBHOOK = "https://discord.com/api/webhooks/xxxxx"
     
     # Hailo Model
     HEF_PATH = "headphones_final_8l.hef"
